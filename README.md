@@ -31,3 +31,12 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL">
     <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="40" alt="Flutter">
 </div>
+
+---
+
+###📊 My stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Cresscowboy&theme=dark)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=crescowboy&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crescowboy&hide_progress=true)
+
