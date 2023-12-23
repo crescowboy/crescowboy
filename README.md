@@ -35,7 +35,7 @@
 
 ---
 
-### 📊 My stats
+### 📊 My Stats:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=crescowboy&theme=dark)](https://git.io/streak-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=crescowboy&show_icons=true&theme=radical)
