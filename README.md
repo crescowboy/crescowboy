@@ -30,6 +30,4 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="40" alt="Express">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL">
     <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="40" alt="Flutter">
-        
-    </div>
 </div>
