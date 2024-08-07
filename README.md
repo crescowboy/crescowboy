@@ -12,7 +12,7 @@
 
 ### 🙋🏻‍♂️ About Me:
 
-- 💻 Program every day
+- 💻 I code every day
 - 🌐 I love web development
 - 👨🏻‍💻 I am constantly learning about new technologies
 - 📱 I know a little about mobile development with Flutter
