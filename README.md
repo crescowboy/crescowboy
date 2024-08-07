@@ -17,7 +17,6 @@
 - 👨🏻‍💻 I am constantly learning about new technologies
 - 📱 I know a little about mobile development with Flutter
 - 📧 You can write to me at wellingtoncrespo2001@gmail.com
-- 🔗 [Portfolio](https://i-portafolio.netlify.app/)
 
 
 <div align="left">
