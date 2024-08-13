@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmdrMjB4Yms2MWs2ZHJ0bTd1MnlvNDlyb3d5YjZxMHB2cTZibXllYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" alt="" width="300">
-    <h1 align="center">Hi, welcome my profile 👋</h1>
+    <h1 align="center">Hi, welcome to my profile. 👋</h1>
     <h3 align="center">Passionate developer with HTML experience,
         CSS, JavaScript, React and Node.js. Specialized in
         create attractive interfaces with React and develop
